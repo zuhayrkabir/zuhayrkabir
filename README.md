@@ -2,10 +2,6 @@
 <h3 align="center">🎓 Computer Engineering Student @ Georgia Tech</h3>
 <h4 align="center">💻 Passionate about SWE, ML, and Entrepreneurship</h4>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zuhayrkabir&theme=radical&border_radius=5" alt="GitHub Streak" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=zuhayrkabir&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></a>
-</p>
 
 ---
 
@@ -101,13 +97,6 @@
   <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"></a>
 </p>
 
----
-
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhayrkabir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</p>
 
 ---
 
