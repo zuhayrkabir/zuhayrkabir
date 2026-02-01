@@ -108,8 +108,3 @@
 - 📫 **Reach me:** [zuhayrkabir1@gmail.com](mailto:zuhayrkabir1@gmail.com)
 - 💼 **LinkedIn:** [zuhayr-kabir](https://linkedin.com/in/zuhayr-kabir)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
