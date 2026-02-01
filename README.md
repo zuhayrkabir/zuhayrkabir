@@ -60,15 +60,6 @@ Arduino • Sensor systems • Robotics platforms
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhayrkabir&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhayrkabir" />
-</p>
-
----
-
 # 🤝 Open To
 
 - SWE Internships  
